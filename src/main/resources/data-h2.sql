@@ -1,0 +1,10 @@
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player0', 45, 2132 ,100,231,321,443,765);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player1', 22, 21313 ,106,32,21,43,652);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player2', 89, 2132 ,130,261,381,433,9365);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player3', 90, 3138 ,2100,3231,4321,3443,1765);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player4', 99, 8133 ,104,2331,301,333,665);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player5', 12, 6132 ,1075,2365,3234,445,765);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player6', 33, 732 ,109,651,441,763,6765);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player7', 44, 232 ,112,931,3541,490,745);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player8', 65, 212 ,170,235,3232,413,165);
+INSERT INTO Players (name, player_level, overall_xp, cat_attack_xp, cat_defense_xp,cat_magic_xp,cat_cooking_xp, cat_crafting_xp     ) VALUES('Player9', 434, 132 ,150,251,3222,453,665);
